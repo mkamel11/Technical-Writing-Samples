@@ -38,4 +38,6 @@ Two-step verification is an optional feature that adds more security to your Wha
 
 > This guide is maintained by Mohamed Kamel.
 
+
+### 📂 Portfolio Links
 * [View Trados Guide](Trados-Guide.md)
