@@ -43,4 +43,4 @@ Two-step verification is an optional feature that adds more security to your Wha
 
 ### 📂 Portfolio Links
 
-* [View Trados Guide](Trados-Guide.md)
+* [View SDL Trados Studio Guide](Trados-Guide.md)
