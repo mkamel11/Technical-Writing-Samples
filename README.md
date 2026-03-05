@@ -34,3 +34,6 @@ Two-step verification is an optional feature that adds more security to your Wha
 * **Authoring Tool:** Markdown
 * **Version Control:** GitHub
 * **Methodology:** Documentation Lifecycle (Drafting & User Validation).
+
+
+> This guide is maintained by Mohamed Kamel.
